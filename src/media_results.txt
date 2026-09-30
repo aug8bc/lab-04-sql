@@ -1,0 +1,7 @@
+name	followers	likes
+Jaxon Smith-Njigba	10354	9000
+Sam Darnold	12340	8743
+Julian Love	9874	4367
+Byron Murphy II	9745	8333
+Jake Bobo	16854	10823
+Mike Macdonald	9282	6533
